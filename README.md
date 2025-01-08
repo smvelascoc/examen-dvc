@@ -13,11 +13,12 @@ Dans ce dépôt vous trouverez l'architecture utilisé pour mettre en place la s
 │   │   ├── processed      
 │   │   └── raw       
 │   ├── metrics       
-│   ├── models      
+│   ├── models            
+│   ├── src
 │   │   ├── data      
-│   │   └── models        
-│   ├── src       
+│   │   └── models         
 │   └── README.md.py       
 ```
+
 
 Raw data from : https://datascientest-mlops.s3.eu-west-1.amazonaws.com/mlops_dvc_fr/raw.csv.
