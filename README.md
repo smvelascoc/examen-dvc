@@ -1,5 +1,10 @@
 # Examen DVC et Dagshub
-Dans ce dépôt vous trouverez l'architecture proposé pour mettre en place la solution de l'examen. 
+Nom: VELASCO
+Prénom: Sergio
+email: velascosergio15@gmail.com
+Dagshub: https://dagshub.com/smvelascoc/examen-dvc
+
+Dans ce dépôt vous trouverez l'architecture utilisé pour mettre en place la solution de l'examen. 
 
 ```bash       
 ├── examen_dvc          
@@ -13,7 +18,6 @@ Dans ce dépôt vous trouverez l'architecture proposé pour mettre en place la s
 │   ├── src       
 │   └── README.md.py       
 ```
-N'hésitez pas à rajouter les dossiers ou les fichiers qui vous semblent pertinents.
 
 Vous devez dans un premier temps *Fork* le repo et puis le cloner pour travailler dessus. Le rendu de cet examen sera le lien vers votre dépôt sur DagsHub. Faites attention à bien mettre https://dagshub.com/licence.pedago en tant que colaborateur avec des droits de lecture seulement pour que ce soit corrigé.
 

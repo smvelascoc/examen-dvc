@@ -21,5 +21,7 @@ def main():
     with open("metrics/metrics.json", "w") as file:
         json.dump(metrics, file)
 
+    pd.DataFrame(y_pred).to_csv("data/predictions.csv")
+
 if __name__ == "__main__":
     main()
