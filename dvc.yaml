@@ -46,5 +46,7 @@ stages:
     - data/processed_data/y_test.csv
     - models/best_model.pkl
     - src/models/evaluate_model.py
+    outs:
+    - data/predictions.csv
     metrics:
     - metrics/metrics.json
