@@ -1,9 +1,9 @@
 # Examen DVC et Dagshub
-Nom: VELASCO
-Prénom: Sergio
-email: velascosergio15@gmail.com
-Dagshub: https://dagshub.com/smvelascoc/examen-dvc
-GitHub: https://github.com/smvelascoc/examen-dvc
+Nom: VELASCO 
+Prénom: Sergio 
+email: velascosergio15@gmail.com 
+Dagshub: https://dagshub.com/smvelascoc/examen-dvc 
+GitHub: https://github.com/smvelascoc/examen-dvc 
 
 Dans ce dépôt vous trouverez l'architecture utilisé pour mettre en place la solution de l'examen. 
 
